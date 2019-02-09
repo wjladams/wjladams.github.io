@@ -4,10 +4,7 @@
 
 layout: page
 ---
-
-# Welcome
-
-This is a place for Dr. Adams to showcase some of his work.
+This is a place for Dr. Adams to show some of his current and past work.
 
 # Useful links
 
