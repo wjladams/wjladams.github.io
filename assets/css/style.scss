@@ -1,0 +1,21 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.footer-col-wrapper {
+  background-color: black;
+  color: white;
+}
+
+.site-footer {
+  background-color: black;
+}
+
+.site-header {
+  background:black;
+  padding-top:20px;
+  padding-bottom:20px;
+  color:white;
+}
