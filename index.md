@@ -7,11 +7,7 @@ layout: page
 permalink: /
 ---
 
-
-1. This is here to help Jekyll Make TOC as ordered list.  This text is ignored
-{:toc}
-
----
+This is a place for Dr. Bill Adams to post some of his current and past work.
 
 # Montessori Mathematics
 Since 2016, I have volunteered at my children's Montessori school, teaching
@@ -28,8 +24,7 @@ that work:
 * [Patents](/pubs#patents)
 * [Other Publications](/pubs#other)
 
-# Useful links
+# Odds and Ends
 
-* [My projects on github](https://github.com/wjladams)
-* [My blog](/blog)
-* [Some of my Montessori Students work](https://github.com/wjladams/montessori)
+* [My projects on Github](https://github.com/wjladams)
+* [My Medium.com page](https://medium.com/@wjladams)
