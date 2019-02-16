@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+A little bit about myself:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+* I am a research mathematician and programmer.
+* I received my Ph.D. from Florida State University in 2015 in Pure Mathematics.
+* For my Ph.D. I worked in the field of Intersection Theory in Algebraic Geometry.
+* I am currently the Director of Algorithms for [Decision Lens Inc](http://decisionlens.com).
+*
