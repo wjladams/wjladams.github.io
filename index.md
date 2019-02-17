@@ -37,4 +37,4 @@ that work:
 
 * [My projects on Github](https://github.com/wjladams)
 * [Decision Lens' projects on Github](https://github.com/dlens): I am the primary maintainer of Decision Lens' open source projects on Github.
-* [My Medium.com page](https://medium.com/@wjladams)
+* [My Medium.com blog](https://medium.com/@wjladams)
