@@ -17,6 +17,7 @@ and Analytic Hierarchy Process (AHP) library and environment designed by me.
 process.
 * [Madden 2016 Machine Learning](https://github.com/dlens/MaddenClustering): A fun project that myself and Gavin Byrnes worked on for Decision Lens.  Essentially analyzing player data on Madden 2016 using clustering techniques and other ideas to discover different player types without a priori knowledge of those types.
 * [Game of life continuous version](https://wjladams.github.io/golcontinuous/jsgolcont/main.html) and [source code](https://github.com/wjladams/golcontinuous): A very simple little javascript application that has a continous version of Conway's Game of Life rule set.  If anyone is interested in doing more, please let me know and I'll be happy to play.
+* [SuperDecisions](http://superdecisions.com): I was the initial designer, architect, programmer and mathematician of the SuperDecisions application while working for the Creative Decisions Foundation (staring in 1998).  Since 2015 Dr. Elena Rokou has taken over the management of that application.
 
 # Montessori Mathematics
 Since 2016, I have volunteered at my children's Montessori school, teaching
