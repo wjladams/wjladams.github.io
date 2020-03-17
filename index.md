@@ -11,6 +11,10 @@ This is a place for Dr. Bill Adams to post some of his current and past work.
 
 # Programming and Mathematics
 
+* [IEMS 2020 Presentation](https://docs.google.com/presentation/d/19zulPh_QdwaHdRv5U4aD0uXVW3eGf2PzCrObfx31RhM/edit?usp=sharing): The slide show for a presentation I did with Dr. Jay Stryker on our work.  We created a simple
+was to use Google Forms to perform a SAHP (Simplified AHP) decision to enable informed consumer choice.  The source
+code for this project is available at [https://github.com/wjladams/consumerAHP](https://github.com/wjladams/consumerAHP).
+* [anpjs](https://github.com/dlens/anpjs): An open source Analytic Network Process (ANP) Javascript library. I have moved it to the Decision Lens github repository.
 * [pyanp](https://github.com/wjladams/pyanp): An open source Analytic Network Process (ANP)
 and Analytic Hierarchy Process (AHP) library and environment designed by me.
 * [SimpleAHP Webapp](https://wjladams.shinyapps.io/simpleahp) and [source code](https://github.com/wjladams/simpleahp): An open source R-Shiny web application for performing a simplified AHP
@@ -24,6 +28,7 @@ Since 2016, I have volunteered at my children's Montessori school, teaching
 mathematics in the Adolescent program.  Here are some interesting links around
 that work:
 
+* [2019-2020 year Montessori resources](https://https://bamath.org/casa2019/): This includes full class assignment lists and tests for Mathematics, in addition to resources for other areas of studies.
 * [My Montessori github page with many resources](https://github.com/wjladams/montessori)
 * [Question and answer game developed by one of my students](https://aiden0709.github.io/MathGame/game.html)
 * [A grid poetry table generator](https://wjladams.github.io/montessori/html/grid-poetry.html)
