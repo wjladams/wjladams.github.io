@@ -28,7 +28,8 @@ Since 2016, I have volunteered at my children's Montessori school, teaching
 mathematics in the Adolescent program.  Here are some interesting links around
 that work:
 
-* [2019 and 2020 year Montessori resources](https://bamath.org/casa/): This includes full class assignment lists and tests for Mathematics, in addition to resources for other areas of studies.
+* [2020 year Montessori resources](https://bamath.org/casa/2020): Teaching resource for adolescent Montessori Math and other subjects teaching in 2020
+* [2019 year Montessori resources](https://bamath.org/casa/2019): Teaching resource for adolescent Montessori Math and other subjects teaching in 2019
 * [My Montessori github page with many resources](https://github.com/wjladams/montessori)
 * [Question and answer game developed by one of my students](https://aiden0709.github.io/MathGame/game.html)
 * [A grid poetry table generator](https://wjladams.github.io/montessori/html/grid-poetry.html)
